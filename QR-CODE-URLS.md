@@ -7,11 +7,11 @@ These URLs target the `main` branch and will not change after initial publish.
 
 | Kit Card | URL to Encode |
 |----------|---------------|
-| Project 1 — Blinking LED | `https://github.com/ArduinoStarterCo/arduinostarterco-projects/tree/main/01-blinking-led` |
-| Project 2 — Servo Control | `https://github.com/ArduinoStarterCo/arduinostarterco-projects/tree/main/02-servo-control` |
-| Project 3 — LCD Display | `https://github.com/ArduinoStarterCo/arduinostarterco-projects/tree/main/03-lcd-display` |
-| Project 4 — Sensor Readings | `https://github.com/ArduinoStarterCo/arduinostarterco-projects/tree/main/04-sensor-readings` |
-| Project 5 — Complete Circuit | `https://github.com/ArduinoStarterCo/arduinostarterco-projects/tree/main/05-complete-circuit` |
+| Project 1 — Blinking LED | `https://github.com/pavnkumarb/arduinostarterco-projects/tree/main/01-blinking-led` |
+| Project 2 — Servo Control | `https://github.com/pavnkumarb/arduinostarterco-projects/tree/main/02-servo-control` |
+| Project 3 — LCD Display | `https://github.com/pavnkumarb/arduinostarterco-projects/tree/main/03-lcd-display` |
+| Project 4 — Sensor Readings | `https://github.com/pavnkumarb/arduinostarterco-projects/tree/main/04-sensor-readings` |
+| Project 5 — Complete Circuit | `https://github.com/pavnkumarb/arduinostarterco-projects/tree/main/05-complete-circuit` |
 
 ## Notes
 
@@ -22,4 +22,4 @@ These URLs target the `main` branch and will not change after initial publish.
 
 ## Repository Root
 
-`https://github.com/ArduinoStarterCo/arduinostarterco-projects`
+`https://github.com/pavnkumarb/arduinostarterco-projects`

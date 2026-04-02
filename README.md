@@ -68,11 +68,11 @@ The QR codes printed on your kit cards link directly to each project folder in t
 
 | QR Code | URL |
 |---------|-----|
-| Project 1 | `https://github.com/ArduinoStarterCo/arduinostarterco-projects/tree/main/01-blinking-led` |
-| Project 2 | `https://github.com/ArduinoStarterCo/arduinostarterco-projects/tree/main/02-servo-control` |
-| Project 3 | `https://github.com/ArduinoStarterCo/arduinostarterco-projects/tree/main/03-lcd-display` |
-| Project 4 | `https://github.com/ArduinoStarterCo/arduinostarterco-projects/tree/main/04-sensor-readings` |
-| Project 5 | `https://github.com/ArduinoStarterCo/arduinostarterco-projects/tree/main/05-complete-circuit` |
+| Project 1 | `https://github.com/pavnkumarb/arduinostarterco-projects/tree/main/01-blinking-led` |
+| Project 2 | `https://github.com/pavnkumarb/arduinostarterco-projects/tree/main/02-servo-control` |
+| Project 3 | `https://github.com/pavnkumarb/arduinostarterco-projects/tree/main/03-lcd-display` |
+| Project 4 | `https://github.com/pavnkumarb/arduinostarterco-projects/tree/main/04-sensor-readings` |
+| Project 5 | `https://github.com/pavnkumarb/arduinostarterco-projects/tree/main/05-complete-circuit` |
 
 These URLs are permanent and will not change. Safe to encode in QR codes for kit packaging.
 
